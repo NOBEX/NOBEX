@@ -2723,10 +2723,10 @@ if MsgText[1] == "سورس" or MsgText[1]=="السورس" then
 return [[
     ⚜️┇Welcome to kenwa source
             ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
-🔱↬   [Install source](t.me/kenwa/526) 
-🔈↬   [Channel kenwa](t.me/kenwa)
+🔱↬   [Install source](t.me/A7KAN) 
+🔈↬   [Channel kenwa](t.me/A7KAN)
             ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-👨‍💻↬   [Developer source](t.me/ii66ii) 
+👨‍💻↬   [Developer source](t.me/A3kon) 
             ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
 ]]
 end
